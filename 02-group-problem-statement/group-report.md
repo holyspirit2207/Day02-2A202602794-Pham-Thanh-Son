@@ -8,12 +8,12 @@
 
 | STT | Họ và tên | Mã học viên | Vai trò trong nhóm (VD: facilitator, workflow, research, writer) |
 |-----|-----------|-------------|---------------------------------------------------------------|
-| 1   | Phan Duy Thành | 2A202602930 | |
-| 2   | Phạm Ngọc Anh | 2A202602831 | |
-| 3   | Trần Hoàng Duy Anh | 2A202602558 | |
-| 4   | Phạm Thanh Sơn | 2A202602794 | |
-| 5   | Võ Đức Tài | 2A202603007 | |
-| 6   | Đỗ Đình long | 2A202502673 | |
+| 1   | Phan Duy Thành | 2A202602930 |Facilitator |
+| 2   | Phạm Ngọc Anh | 2A202602831 | Research, Writer|
+| 3   | Trần Hoàng Duy Anh | 2A202602558 | Research|
+| 4   | Phạm Thanh Sơn | 2A202602794 |Workflow |
+| 5   | Võ Đức Tài | 2A202603007 |Workflow & Presenter|
+| 6   | Đỗ Đình long | 2A202502673 | Research |
 
 **Candidate problem nhóm chọn (1 câu):**
 Chuẩn hóa, cào dữ liệu từ các nguồn khác nhau VD Ipos, Excel, Định biên nhân sự (role Data Analyst) khiến cho việc khai thác và chuẩn hóa mất rất nhiều thời gian (đối với weekly report) 
